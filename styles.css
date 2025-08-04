@@ -14,7 +14,7 @@ section {
     background: rgb(255, 255, 255);
     padding: 80px;
     padding-top: 10px;
-    padding-bottom: 10px;
+    padding-bottom: 5px;
     display: flex;
     justify-content: center;
 }
