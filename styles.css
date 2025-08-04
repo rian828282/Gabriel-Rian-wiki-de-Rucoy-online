@@ -9,5 +9,6 @@ header {
 }
 
 section {
-    background: rgb(147, 231, 184)
+    background: rgb(147, 231, 184);
+    padding: 80px;
 }
