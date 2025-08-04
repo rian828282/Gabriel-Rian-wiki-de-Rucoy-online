@@ -7,7 +7,7 @@ header {
     border-bottom: solid 1px black;
     padding: 15px;
     font-size: 34px;
-    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjNYGJG1TSnvGxrYRZpb3rl-2eMrnbbjho_A&s);
+    background: rgb(172, 230, 186)
 }
 
 section {
@@ -21,7 +21,9 @@ section {
 
 h1 {
     font-size: 65px;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjNYGJG1TSnvGxrYRZpb3rl-2eMrnbbjho_A&s);
 }
+
 
 a {
     margin-left: 50px;
