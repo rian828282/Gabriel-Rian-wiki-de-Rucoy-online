@@ -11,7 +11,8 @@ header {
 
 section {
     background: rgb(255, 255, 255);
-    padding: 80px;
+    padding: 40px;
+    padding-top: 10px;
 }
 
 h1 {
