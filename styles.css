@@ -31,8 +31,11 @@ a {
     margin-left: 50px;
 }
  .title {
-    color: white;
+    
     background: rgb(255, 255, 255);
  }
     
-
+.youtube{
+     padding-top: 10px;
+    padding-bottom: 5px;
+}
