@@ -1,5 +1,5 @@
 body  {
-    background: rgb(76, 243, 212);
+    background: rgb(72, 72, 72);
 margin: 45px;
 font-family: "Libertinus Serif", serif;
 }
@@ -8,11 +8,11 @@ header {
     border-bottom: solid 1px black;
     padding: 15px;
     font-size: 34px;
-    background: rgb(81, 19, 19)
+    background: rgb(0, 0, 0)
 }
 
 section {
-    background: rgb(142, 127, 127);
+    background: rgb(50, 50, 50);
     padding: 80px;
     padding-top: 10px;
     padding-bottom: 5px;
