@@ -40,6 +40,12 @@ p {
 h3 {
     font-size: 60px;
     color: white;
-    display: flex;
+}
+
+b {
+     display: flex;
     justify-content: center;
 }
+}
+
+
