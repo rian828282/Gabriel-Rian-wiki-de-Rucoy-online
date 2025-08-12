@@ -81,6 +81,7 @@ h6 {
 }
 
 .deve {
+    padding-bottom: 1px;
      background: rgb(50, 50, 50);
     display: flex;
     justify-content: baseline;
