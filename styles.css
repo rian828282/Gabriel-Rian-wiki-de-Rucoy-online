@@ -67,6 +67,10 @@ h5 {
     font-size: 20px;
     padding-left: 10px;
     justify-content: right;
+    background: rgb(50, 50, 50);
+    padding: 80px;
+    padding-top: 10px;
+    padding-bottom: 5px;
 }
 
 .borda {
