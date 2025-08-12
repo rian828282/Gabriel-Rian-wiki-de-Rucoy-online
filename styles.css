@@ -79,3 +79,8 @@ h6 {
    font-size: 60px;
     color: white; 
 }
+
+.deve {
+    display: flex;
+    justify-content: center;
+}
