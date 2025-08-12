@@ -60,9 +60,15 @@ c {
 .categoria-videos {
     display: flex;
     overflow-x: auto;
+    gap: 10px;
 }
 
 h5 {
     font-size: 40px;
     padding-left: 10px;
+}
+
+.borda {
+    padding-left: 20px;
+    padding-right: 20px;
 }
