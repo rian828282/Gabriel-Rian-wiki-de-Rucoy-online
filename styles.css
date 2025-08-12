@@ -81,6 +81,7 @@ h6 {
 }
 
 .deve {
+     background: rgb(50, 50, 50);
     display: flex;
     justify-content: baseline;
 }
