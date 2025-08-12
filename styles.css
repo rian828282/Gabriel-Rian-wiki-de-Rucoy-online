@@ -57,7 +57,7 @@ c {
     height: 200px;
 }
 
-.categoria-videos{
+.categoria-videos {
     display: flex;
     overflow-x: auto;
 }
