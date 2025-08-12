@@ -60,7 +60,7 @@ c {
 .categoria {
     display: flex;
     overflow-x: auto;
-    gap: 30px;
+    gap: 10px;
 }
 
 h5 {
