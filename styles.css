@@ -56,3 +56,8 @@ c {
     padding-bottom: 5px;
     height: 200px;
 }
+
+.categoria-videos{
+    display: flex;
+    overflow-x: auto;
+}
