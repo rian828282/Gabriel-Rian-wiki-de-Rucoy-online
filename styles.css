@@ -82,5 +82,5 @@ h6 {
 
 .deve {
     display: flex;
-    justify-content: center;
+    justify-content: baseline;
 }
