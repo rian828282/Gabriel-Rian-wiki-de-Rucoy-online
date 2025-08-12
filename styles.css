@@ -61,3 +61,7 @@ c {
     display: flex;
     overflow-x: auto;
 }
+
+h5 {
+    font-size: 40px;
+}
