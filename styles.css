@@ -66,6 +66,8 @@ c {
 h5 {
     font-size: 20px;
     padding-left: 10px;
+    display: flex;
+    justify-content: right;
 }
 
 .borda {
