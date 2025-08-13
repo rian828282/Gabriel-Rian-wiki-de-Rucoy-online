@@ -93,3 +93,7 @@ h6 {
 .categoria img {
     opacity: 0.5;
 }
+
+.categoria img:hover {
+    opacity: 1.0;
+}
