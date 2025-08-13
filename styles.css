@@ -106,3 +106,14 @@ h6 {
     color:rgb(255, 255, 255)
 
 }
+
+.po {
+    padding-bottom: 0px;
+    color: white;
+}
+
+.pa {
+    padding-top: 0px;
+    color: white;
+}
+
