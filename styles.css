@@ -110,10 +110,18 @@ h6 {
 .po {
     padding-bottom: 0px;
     color: white;
+    font-size: 15px;
 }
 
 .pa {
     padding-top: 0px;
     color: white;
+    font-size: 15px;
+}
+
+.ja {
+    padding-bottom: 0px;
+    color: white;
+    font-size: 15px;
 }
 
