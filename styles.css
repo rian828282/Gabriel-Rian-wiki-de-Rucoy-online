@@ -125,7 +125,8 @@ h6 {
     font-size: 30px;
 }
 
-.6 {
+.fr {
+    padding-left: 10px;
    font-size: 60px;
     color: white; 
 }
