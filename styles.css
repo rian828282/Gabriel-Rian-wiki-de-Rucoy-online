@@ -96,4 +96,5 @@ h6 {
 
 .categoria img:hover {
     opacity: 1.0;
+    border: 3px solid white;
 }
