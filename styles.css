@@ -100,7 +100,9 @@ h6 {
 }
 
 .titulo {
+    padding-top: 10px;
+    padding-bottom: 10px;
     font-size: 50px;
     color:rgb(142, 242, 255)
-    
+
 }
