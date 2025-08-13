@@ -160,3 +160,10 @@ h6 {
     color: white;
     font-size: 30px;
 }
+
+.hu {
+   padding-top: 1px;
+     background: rgb(50, 50, 50);
+    display: flex;
+    justify-content: baseline; 
+}
