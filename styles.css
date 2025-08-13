@@ -98,3 +98,9 @@ h6 {
     opacity: 1.0;
     border: 3px solid white;
 }
+
+.titulo {
+    font-size: 50px;
+    color:rgb(142, 242, 255)
+    
+}
