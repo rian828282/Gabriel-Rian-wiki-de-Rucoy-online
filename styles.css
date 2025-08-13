@@ -144,3 +144,9 @@ h6 {
 .ti {
     padding-right: 32px;
 }
+
+.gt {
+     padding-right: 20px;
+   font-size: 60px;
+    color: white; 
+}
