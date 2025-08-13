@@ -89,3 +89,7 @@ h6 {
     display: flex;
     justify-content: baseline;
 }
+
+.categoria img {
+    opacity: 0.5;
+}
